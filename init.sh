@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+rm README.md
 virtualenv venv
 source ./venv/bin/activate
 git clone https://github.com/1stDayHack/FDK.git
