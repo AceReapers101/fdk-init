@@ -26,3 +26,4 @@ rm demo_5.ipynb
 rm requirements.txt
 pip freeze > requirements.txt
 echo '-f https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.7/index.html'&>>requirements.txt
+rm README.md
